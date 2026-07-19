@@ -1,0 +1,23 @@
+# Compilados
+*.o
+*.obj
+*.out
+a.out
+*.exe
+build/
+bin/
+
+# Saídas do CPLEX
+*.log
+*.lp
+*.sav
+cplex.log
+
+# Editor
+.vscode/
+MIxPrdoucao
+transporte_vacinas
+MIxPrdoucao
+transporte_vacinas
+MIxPrdoucao
+transporte_vacinas
